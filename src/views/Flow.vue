@@ -8,7 +8,7 @@ import CustomEdge2 from './CustomEdge2.vue';
 import ColorSelectorNode from './ColorSelectorNode.vue';
 
 const elements = ref<Elements>([]);
-const bgColor = ref('#1A192B');
+const bgColor = ref('#7d9788');
 const connectionLineStyle = { stroke: '#fff' };
 const { onConnect, addEdges } = useVueFlow();
 
