@@ -1,0 +1,6 @@
+# Ignore certain file types & dist folders
+*.md
+*.yml
+*.yaml
+*.d.ts
+dist
